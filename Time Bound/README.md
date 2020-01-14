@@ -9,3 +9,5 @@ Numba functions uses the "@jit" decorative method to increase the efficiency and
 
 ## Graph
 <p align="center">
+    <img src=https://github.com/Ayush19-01/GCI-Bound-Computations/blob/master/Time%20Bound/timeb.png>
+<\p>
