@@ -45,6 +45,6 @@ ___Normal Numpy___
 
 <p align="center">
     <img src=https://github.com/Ayush19-01/GCI-Bound-Computations/blob/master/Space%20Bound/ct.png>
-</p>)
+</p>
 
 After comparing both the graphs, we can say that the fortran style/column-major is much more faster than the normal numpy dot function.
