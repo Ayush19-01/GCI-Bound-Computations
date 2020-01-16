@@ -35,13 +35,13 @@ While normal numpy dot
 "C" method is used, n this code i have used the "F" method which the column major style of calculating and I found it to be faster than the "C"
 calculations. The results with ravel and without ravel are shown below.
 
-___Numpy with Ravel___
+### Numpy with Ravel
 
 <p align="center">
     <img src=https://github.com/Ayush19-01/GCI-Bound-Computations/blob/master/Space%20Bound/cs.png>
 </p>
 
-___Normal Numpy___
+### Normal Numpy
 
 <p align="center">
     <img src=https://github.com/Ayush19-01/GCI-Bound-Computations/blob/master/Space%20Bound/ct.png>
