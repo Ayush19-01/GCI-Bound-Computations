@@ -8,7 +8,7 @@ but only a slight improvement was seen in this result.
 
 <p align="center">
     <img src =https://github.com/Ayush19-01/GCI-Bound-Computations/blob/master/Space%20Bound/sbc.png>
-<\p>
+</p>
 
 ## Comparison with last graph
 
@@ -28,7 +28,7 @@ take no account of the memory layout of the underlying array, and only refer to 
 
 <p align="center">
     <img src = https://github.com/Ayush19-01/GCI-Bound-Computations/blob/master/Space%20Bound/mvp.png width=50% height=50%>
-<\p>
+</p>
 
 
 While normal numpy dot
@@ -39,12 +39,12 @@ ___Numpy with Ravel___
 
 <p align="center">
     <img src=https://github.com/Ayush19-01/GCI-Bound-Computations/blob/master/Space%20Bound/cs.png>
-<\p>
+</p>
 
 ___Normal Numpy___
 
 <p align="center">
     <img src=https://github.com/Ayush19-01/GCI-Bound-Computations/blob/master/Space%20Bound/ct.png>
-<\p>)
+</p>)
 
 After comparing both the graphs, we can say that the fortran style/column-major is much more faster than the normal numpy dot function.
